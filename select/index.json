@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Božićna noć",
+  "base_artist": "Colonia",
+  "createdAt": "2025-12-19T21:04:00.079673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Božićna Noć",
+      "artist": "Colonia",
+      "has_synced": false,
+      "path": "select/01_Božićna_Noć_Colonia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Božićna Noć (Remix)",
+      "artist": "Colonia",
+      "has_synced": true,
+      "path": "select/02_Božićna_Noć_(Remix)_Colonia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bozicna Noc",
+      "artist": "Colonia",
+      "has_synced": false,
+      "path": "select/pl_01_Bozicna_Noc_Colonia.txt"
+    }
+  ]
+}
