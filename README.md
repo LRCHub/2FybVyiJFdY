@@ -1,0 +1,30 @@
+# Colonia – Božićna noć
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ding ding dong èujte zvona zvon
+U ritmu cijeli svijet zvoni, svaka kuæa, svaki dom
+Sad svi ruke gore nek 'se èuje zvon
+Ding dong diri diri dam diri dong
+Budi tu uz nas i nek' se èuje glas
+Nek' se èuje jasno i nek' se èuje glasno
+Da u miru i dobru trebamo svi poæ
+Stigla nam je tiha noæ
+Èestit Božiæ dobrim ljudima i sretna nova, nova godina
+Èestit Božiæ dobrim ljudima i sretna nova, nova godina
+Ding ding dong here comes the song
+It's Colonia gang coming on strong
+Just lift your hands in the air
+Ding dong diri diri dam diri de
+If you're a girl, boy, woman or a man
+Just sing with us the best you can
+Singing and dancing is not a crime
+Just tell the world it's Christmas time
+Merry Christmas wish you everyone and a happy, happy new year
+Merry Christmas wish you everyone and a happy, happy new year
+Èestit Božiæ dobrim ljudima i sretna nova, nova godina
+Èestit Božiæ dobrim ljudima i sretna nova, nova godina
+Merry Christmas wish you everyone and a happy, happy new year
+Merry Christmas wish you everyone and a happy, happy new year
+```
